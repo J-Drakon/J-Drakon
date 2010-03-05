@@ -1,6 +1,6 @@
 # Notes - Updated 2010
 
-- Item 1: Done
-- Item 2: Done
+- Item 1: TODO
+- Item 2: TODO
 
-Last updated: commit 1
+Last updated: commit 2
