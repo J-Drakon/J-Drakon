@@ -1,0 +1,12 @@
+# Notes - Updated 2010
+
+- Item 1: Done
+- Item 2: Done
+- Item 3: Done
+- Item 4: Done
+- Item 5: Done
+- Item 6: TODO
+- Item 7: Done
+- Item 8: Done
+
+Last updated: commit 3
