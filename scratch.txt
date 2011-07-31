@@ -2,9 +2,11 @@
 
 - Item 1: TODO
 - Item 2: Done
-- Item 3: Done
+- Item 3: TODO
 - Item 4: TODO
 - Item 5: Done
-- Item 6: Done
+- Item 6: TODO
+- Item 7: TODO
+- Item 8: Done
 
-Last updated: commit 6
+Last updated: commit 7
