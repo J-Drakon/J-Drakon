@@ -1,9 +1,8 @@
-# Notes - Updated 2011
+# Notes - Updated 2012
 
-- Item 1: TODO
+- Item 1: Done
 - Item 2: TODO
 - Item 3: TODO
-- Item 4: TODO
-- Item 5: TODO
+- Item 4: Done
 
-Last updated: commit 8
+Last updated: commit 1
