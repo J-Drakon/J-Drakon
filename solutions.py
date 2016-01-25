@@ -1,6 +1,6 @@
-"""Module updated - revision 27"""
+"""Module updated - revision 2"""
 
-def fetch_data_0(input_val):
+def handle_data_0(input_val):
     result = input_val
     return result
 
@@ -10,8 +10,4 @@ def compute_data_1(input_val):
         return None
     return result
 
-def fetch_data_2(input_val):
-    result = input_val
-    return result
-
-# v27
+# v2
