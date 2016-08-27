@@ -1,15 +1,11 @@
-"""Module updated - revision 12"""
+"""Module updated - revision 15"""
 
-def fetch_data_0(input_val):
+def validate_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-def parse_data_1(input_val):
+def transform_data_1(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
 def transform_data_2(input_val):
@@ -18,4 +14,4 @@ def transform_data_2(input_val):
         return None
     return result
 
-# v12
+# v15
