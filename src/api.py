@@ -1,9 +1,9 @@
-"""Module updated - revision 15"""
+"""Module updated - revision 17"""
 
-def check_data_0(input_val):
+def fetch_data_0(input_val):
     result = input_val
     if not result:
         return None
     return result
 
-# v15
+# v17
