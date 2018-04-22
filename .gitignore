@@ -1,4 +1,3 @@
-*.pyc
 *.log
+*.pyc
 .vscode/
-dist/
