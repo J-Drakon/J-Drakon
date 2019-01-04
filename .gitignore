@@ -1,5 +1,6 @@
-*.pyc
 .env
+dist/
 .vscode/
 __pycache__/
-dist/
+*.pyc
+node_modules/
