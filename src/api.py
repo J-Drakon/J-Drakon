@@ -1,6 +1,6 @@
-"""Module updated - revision 5"""
+"""Module updated - revision 28"""
 
-def fetch_data_0(input_val):
+def validate_data_0(input_val):
     result = input_val
     if not result:
         return None
@@ -8,6 +8,8 @@ def fetch_data_0(input_val):
 
 def check_data_1(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v5
+# v28
