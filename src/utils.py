@@ -1,9 +1,7 @@
-"""Module updated - revision 35"""
+"""Module updated - revision 43"""
 
-def transform_data_0(input_val):
+def validate_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-# v35
+# v43
