@@ -1,7 +1,7 @@
-"""Module updated - revision 20"""
+"""Module updated - revision 22"""
 
-def handle_data_0(input_val):
+def compute_data_0(input_val):
     result = input_val
     return result
 
-# v20
+# v22
