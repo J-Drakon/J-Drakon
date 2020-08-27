@@ -1,4 +1,7 @@
-.vscode/
-*.log
 *.pyc
+*.log
+.env
 node_modules/
+__pycache__/
+.vscode/
+dist/
