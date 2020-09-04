@@ -1,4 +1,3 @@
-dist/
-*.pyc
 *.log
-.env
+node_modules/
+.vscode/
