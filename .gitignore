@@ -1,4 +1,6 @@
-.vscode/
-node_modules/
-*.log
 __pycache__/
+.env
+dist/
+node_modules/
+.vscode/
+*.pyc
