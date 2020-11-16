@@ -1,4 +1,4 @@
-dist/
-*.log
-.env
 .vscode/
+.env
+*.log
+*.pyc
