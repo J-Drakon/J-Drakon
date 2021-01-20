@@ -1,0 +1,4 @@
+# Config revision 7
+app:
+  debug: false
+  version: 7
