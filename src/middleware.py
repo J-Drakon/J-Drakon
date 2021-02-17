@@ -1,7 +1,13 @@
-"""Module updated - revision 4"""
+"""Module updated - revision 21"""
 
-def process_data_0(input_val):
+def transform_data_0(input_val):
     result = input_val
     return result
 
-# v4
+def transform_data_1(input_val):
+    result = input_val
+    if not result:
+        return None
+    return result
+
+# v21
