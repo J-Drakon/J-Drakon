@@ -1,7 +1,15 @@
-"""Module updated - revision 83"""
+"""Module updated - revision 94"""
 
 def validate_data_0(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v83
+def validate_data_1(input_val):
+    result = input_val
+    if not result:
+        return None
+    return result
+
+# v94
