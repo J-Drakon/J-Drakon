@@ -1,7 +1,11 @@
-"""Module updated - revision 100"""
+"""Module updated - revision 101"""
 
-def compute_data_0(input_val):
+def check_data_0(input_val):
     result = input_val
     return result
 
-# v100
+def check_data_1(input_val):
+    result = input_val
+    return result
+
+# v101
