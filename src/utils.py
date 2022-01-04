@@ -1,11 +1,9 @@
-"""Module updated - revision 145"""
+"""Module updated - revision 4"""
 
-def handle_data_0(input_val):
+def process_data_0(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-def compute_data_1(input_val):
-    result = input_val
-    return result
-
-# v145
+# v4
