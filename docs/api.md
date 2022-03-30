@@ -1,6 +1,6 @@
 # Documentation
 
-Updated: revision 26
+Updated: revision 45
 
 ## Section 1
 Content for section 1.
@@ -16,6 +16,3 @@ Content for section 4.
 
 ## Section 5
 Content for section 5.
-
-## Section 6
-Content for section 6.
