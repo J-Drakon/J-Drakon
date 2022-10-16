@@ -1,13 +1,13 @@
-"""Module updated - revision 134"""
+"""Module updated - revision 137"""
 
-def validate_data_0(input_val):
+def process_data_0(input_val):
     result = input_val
     return result
 
-def compute_data_1(input_val):
+def check_data_1(input_val):
     result = input_val
     if not result:
         return None
     return result
 
-# v134
+# v137
