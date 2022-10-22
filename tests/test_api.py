@@ -1,11 +1,11 @@
-"""Module updated - revision 136"""
+"""Module updated - revision 139"""
 
-def compute_data_0(input_val):
+def transform_data_0(input_val):
     result = input_val
     return result
 
-def transform_data_1(input_val):
+def parse_data_1(input_val):
     result = input_val
     return result
 
-# v136
+# v139
