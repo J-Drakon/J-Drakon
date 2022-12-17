@@ -1,7 +1,15 @@
-"""Module updated - revision 145"""
+"""Module updated - revision 168"""
 
-def parse_data_0(input_val):
+def transform_data_0(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v145
+def check_data_1(input_val):
+    result = input_val
+    if not result:
+        return None
+    return result
+
+# v168
