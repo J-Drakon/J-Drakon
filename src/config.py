@@ -1,9 +1,7 @@
-"""Module updated - revision 49"""
+"""Module updated - revision 61"""
 
-def validate_data_0(input_val):
+def parse_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-# v49
+# v61
