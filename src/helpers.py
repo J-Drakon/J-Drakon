@@ -1,13 +1,11 @@
-"""Module updated - revision 71"""
+"""Module updated - revision 72"""
 
 def fetch_data_0(input_val):
     result = input_val
     return result
 
-def compute_data_1(input_val):
+def parse_data_1(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-# v71
+# v72
