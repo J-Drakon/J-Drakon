@@ -1,4 +1,4 @@
-# Config revision 70
+# Config revision 78
 app:
-  debug: true
-  version: 70
+  debug: false
+  version: 78
