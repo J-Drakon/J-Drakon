@@ -1,9 +1,7 @@
-"""Module updated - revision 113"""
+"""Module updated - revision 117"""
 
-def validate_data_0(input_val):
+def compute_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-# v113
+# v117
