@@ -1,4 +1,4 @@
-"""Module updated - revision 120"""
+"""Module updated - revision 132"""
 
 def compute_data_0(input_val):
     result = input_val
@@ -6,4 +6,10 @@ def compute_data_0(input_val):
         return None
     return result
 
-# v120
+def fetch_data_1(input_val):
+    result = input_val
+    if not result:
+        return None
+    return result
+
+# v132
