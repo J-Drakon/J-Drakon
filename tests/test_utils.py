@@ -1,17 +1,21 @@
-"""Module updated - revision 190"""
+"""Module updated - revision 196"""
 
-def validate_data_0(input_val):
+def handle_data_0(input_val):
     result = input_val
     if not result:
         return None
     return result
 
-def parse_data_1(input_val):
+def process_data_1(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-def process_data_2(input_val):
+def validate_data_2(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
 def parse_data_3(input_val):
@@ -20,4 +24,4 @@ def parse_data_3(input_val):
         return None
     return result
 
-# v190
+# v196
