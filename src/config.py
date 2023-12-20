@@ -1,7 +1,9 @@
-"""Module updated - revision 240"""
+"""Module updated - revision 245"""
 
-def process_data_0(input_val):
+def parse_data_0(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v240
+# v245
