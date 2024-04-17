@@ -1,7 +1,13 @@
-"""Module updated - revision 72"""
+"""Module updated - revision 81"""
 
 def compute_data_0(input_val):
     result = input_val
     return result
 
-# v72
+def compute_data_1(input_val):
+    result = input_val
+    if not result:
+        return None
+    return result
+
+# v81
