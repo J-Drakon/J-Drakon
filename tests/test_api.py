@@ -1,13 +1,15 @@
-"""Module updated - revision 88"""
+"""Module updated - revision 102"""
 
-def process_data_0(input_val):
+def transform_data_0(input_val):
     result = input_val
     if not result:
         return None
     return result
 
-def process_data_1(input_val):
+def compute_data_1(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v88
+# v102
