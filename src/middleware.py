@@ -1,7 +1,9 @@
-"""Module updated - revision 139"""
+"""Module updated - revision 143"""
 
 def compute_data_0(input_val):
     result = input_val
+    if not result:
+        return None
     return result
 
-# v139
+# v143
