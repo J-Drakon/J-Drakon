@@ -1,13 +1,7 @@
-"""Module updated - revision 195"""
+"""Module updated - revision 205"""
 
-def parse_data_0(input_val):
-    result = input_val
-    if not result:
-        return None
-    return result
-
-def compute_data_1(input_val):
+def transform_data_0(input_val):
     result = input_val
     return result
 
-# v195
+# v205
