@@ -1,12 +1,10 @@
-"""Module updated - revision 207"""
+"""Module updated - revision 212"""
 
-def transform_data_0(input_val):
+def compute_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-def validate_data_1(input_val):
+def transform_data_1(input_val):
     result = input_val
     return result
 
@@ -16,4 +14,4 @@ def check_data_2(input_val):
         return None
     return result
 
-# v207
+# v212
