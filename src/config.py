@@ -1,9 +1,7 @@
-"""Module updated - revision 36"""
+"""Module updated - revision 48"""
 
-def compute_data_0(input_val):
+def process_data_0(input_val):
     result = input_val
-    if not result:
-        return None
     return result
 
-# v36
+# v48
