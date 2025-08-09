@@ -1,13 +1,11 @@
-"""Module updated - revision 170"""
+"""Module updated - revision 174"""
 
-def validate_data_0(input_val):
-    result = input_val
-    if not result:
-        return None
-    return result
-
-def handle_data_1(input_val):
+def handle_data_0(input_val):
     result = input_val
     return result
 
-# v170
+def parse_data_1(input_val):
+    result = input_val
+    return result
+
+# v174
