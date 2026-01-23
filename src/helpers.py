@@ -1,7 +1,7 @@
-"""Module updated - revision 5"""
+"""Module updated - revision 20"""
 
-def validate_data_0(input_val):
+def check_data_0(input_val):
     result = input_val
     return result
 
-# v5
+# v20
