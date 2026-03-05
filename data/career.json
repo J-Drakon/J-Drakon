@@ -1,0 +1,136 @@
+{
+  "career": [
+    {
+      "role": "Agentic AI Lead — Principal Engineer",
+      "company": "Google DeepMind",
+      "company_type": "Big Tech / AI Research Lab",
+      "location": "San Francisco, CA",
+      "period": "January 2022 — Present",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "duration": "3+ years",
+      "employment_type": "Full-Time",
+      "status": "Active",
+      "reports_to": "VP of DeepMind Research",
+      "team_size": 35,
+      "description": "Leads a 35-person cross-functional engineering and research team building Google's next-generation autonomous AI agent platform (Project Mariner & Gemini Agents). Responsible for the full technical roadmap, product strategy, and safety architecture of agentic systems deployed across Google Search, Workspace, and Android. Defining the multi-agent orchestration standards now adopted across all Alphabet AI products.",
+      "key_achievements": [
+        "Architected multi-agent orchestration framework serving 2B+ daily interactions globally",
+        "Reduced agent hallucination rate by 67% via novel self-verification architecture",
+        "Launched Gemini Agents to 190 countries with 99.99% uptime SLA",
+        "Filed 4 patents on agentic reasoning and memory architectures",
+        "Built and scaled the Agentic AI team from 8 to 35 engineers & researchers"
+      ],
+      "technologies": ["Agentic AI", "Gemini", "Multi-Agent Systems", "JAX", "Google Cloud", "AI Safety", "Python", "TPU"],
+      "products": ["Project Mariner", "Gemini Agents", "Google Search AI", "Android AI"]
+    },
+    {
+      "role": "Senior Research Scientist — NLP & Reasoning",
+      "company": "Google Brain",
+      "company_type": "Big Tech / AI Research Lab",
+      "location": "Mountain View, CA",
+      "period": "July 2019 — December 2021",
+      "start_date": "2019-07-01",
+      "end_date": "2021-12-31",
+      "duration": "2.5 years",
+      "employment_type": "Full-Time",
+      "status": "Completed",
+      "reports_to": "Research Director",
+      "team_size": 12,
+      "description": "Core contributor to LaMDA (now Bard/Gemini) and early PaLM language model research teams. Led the reasoning and factual grounding sub-team. Pioneered chain-of-thought prompting methodology that became the industry standard for eliciting reasoning from LLMs. Published 14 papers during this period at top-tier venues.",
+      "key_achievements": [
+        "Co-authored 'Chain-of-Thought Prompting' paper — 4,100+ citations (NeurIPS 2022)",
+        "Led 12-person research team on LaMDA factual grounding module",
+        "Improved PaLM reasoning benchmarks (GSM8K) from 58% to 74% accuracy",
+        "Received Google Research Outstanding Contribution Award 2020 and 2021",
+        "Published 14 papers at top-tier venues (NeurIPS, ICML, ICLR)"
+      ],
+      "technologies": ["LaMDA", "PaLM", "Chain-of-Thought", "NLP", "TensorFlow", "TPU", "Python"],
+      "products": ["LaMDA", "PaLM", "Google Search"]
+    },
+    {
+      "role": "Co-Founder & CTO",
+      "company": "Cognix Labs",
+      "company_type": "AI Startup (Acquired)",
+      "location": "San Francisco, CA",
+      "period": "January 2020 — October 2021",
+      "start_date": "2020-01-01",
+      "end_date": "2021-10-31",
+      "duration": "1 year 10 months",
+      "employment_type": "Founder",
+      "status": "Acquired by Google for $180M",
+      "reports_to": "Board of Directors",
+      "team_size": 28,
+      "description": "Co-founded an enterprise AI automation startup focused on no-code agentic workflow automation for Fortune 500 enterprises. Built and led a 28-person engineering team across SF, Bangalore, and London. Grew to 400+ enterprise clients including Microsoft, Salesforce, and JPMorgan.",
+      "key_achievements": [
+        "Raised $12M Series A led by Sequoia Capital (valuation: $60M)",
+        "Acquired by Google for $180M — 3x return for investors in 18 months",
+        "400+ enterprise clients at time of acquisition",
+        "$8M ARR at time of acquisition",
+        "Built engineering team of 28 across San Francisco, Bangalore, and London"
+      ],
+      "technologies": ["React", "Node.js", "Python", "PostgreSQL", "Kubernetes", "AWS", "Docker"],
+      "funding": {
+        "series_a": "$12M",
+        "lead_investor": "Sequoia Capital",
+        "valuation_at_series_a": "$60M",
+        "acquisition_price": "$180M",
+        "acquirer": "Google",
+        "acquisition_date": "2021-10"
+      },
+      "clients": ["Microsoft", "Salesforce", "JPMorgan", "400+ enterprise clients"],
+      "offices": ["San Francisco", "Bangalore", "London"]
+    },
+    {
+      "role": "Research Intern → Research Resident",
+      "company": "OpenAI",
+      "company_type": "AI Research Lab",
+      "location": "San Francisco, CA",
+      "period": "May 2018 — May 2019",
+      "start_date": "2018-05-01",
+      "end_date": "2019-05-31",
+      "duration": "1 year",
+      "employment_type": "Internship → Residency",
+      "status": "Completed",
+      "reports_to": "Research Leadership",
+      "team_size": null,
+      "description": "Doctoral research residency focused on Reinforcement Learning from Human Feedback (RLHF) and AI alignment techniques. Worked directly with Ilya Sutskever and Dario Amodei on early GPT alignment strategies. Co-authored a landmark alignment paper with 3,200+ citations.",
+      "key_achievements": [
+        "Co-authored foundational RLHF alignment paper — 3,200+ citations",
+        "Developed reward modeling framework adopted in GPT-3 fine-tuning pipeline",
+        "Promoted from intern to Research Resident within 3 months",
+        "Worked directly with Ilya Sutskever and Dario Amodei"
+      ],
+      "technologies": ["RLHF", "AI Alignment", "GPT", "PyTorch", "Safety Research"],
+      "mentors": ["Ilya Sutskever", "Dario Amodei"]
+    },
+    {
+      "role": "Graduate Research Assistant & Teaching Fellow",
+      "company": "MIT CSAIL & Harvard SEAS",
+      "company_type": "Academia",
+      "location": "Cambridge, MA",
+      "period": "September 2013 — May 2019",
+      "start_date": "2013-09-01",
+      "end_date": "2019-05-31",
+      "duration": "6 years",
+      "employment_type": "Academic",
+      "status": "Completed",
+      "reports_to": "Prof. Daniela Rus (MIT), Prof. Leslie Valiant (Harvard)",
+      "team_size": null,
+      "description": "Conducted foundational research in autonomous systems and reinforcement learning under NSF Fellowship. Teaching Fellow for CS 182 (Deep Learning) at Harvard and 6.867 (Machine Learning) at MIT. Mentored 18 undergraduate and graduate students; 6 of whom are now faculty at top universities.",
+      "key_achievements": [
+        "NSF Graduate Research Fellowship recipient",
+        "Teaching Fellow for CS 182 (Deep Learning) at Harvard",
+        "Teaching Fellow for 6.867 (Machine Learning) at MIT",
+        "Mentored 18 undergraduate and graduate students",
+        "6 mentees are now faculty at top universities",
+        "Published 11 papers during PhD"
+      ],
+      "technologies": ["Reinforcement Learning", "Autonomous Systems", "Deep Learning", "Python", "PyTorch", "TensorFlow"],
+      "courses_taught": [
+        "CS 182 — Deep Learning (Harvard)",
+        "6.867 — Machine Learning (MIT)"
+      ]
+    }
+  ]
+}

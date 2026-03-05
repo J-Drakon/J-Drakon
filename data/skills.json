@@ -1,0 +1,66 @@
+{
+  "skills": {
+    "ai_and_ml": {
+      "category": "AI & Machine Learning",
+      "skills": [
+        { "name": "Agentic AI / LLM Architectures", "level": 99 },
+        { "name": "Multi-Agent Systems", "level": 98 },
+        { "name": "Reinforcement Learning (RL/RLHF)", "level": 97 },
+        { "name": "Natural Language Processing", "level": 96 },
+        { "name": "AI Safety & Alignment", "level": 94 },
+        { "name": "Transformer Architectures", "level": 95 },
+        { "name": "Prompt Engineering / Chain-of-Thought", "level": 99 },
+        { "name": "Computer Vision", "level": 85 },
+        { "name": "Generative AI", "level": 93 },
+        { "name": "Bayesian Methods", "level": 82 }
+      ]
+    },
+    "programming": {
+      "category": "Programming & Engineering",
+      "skills": [
+        { "name": "Python", "level": 99 },
+        { "name": "JAX", "level": 97 },
+        { "name": "PyTorch", "level": 97 },
+        { "name": "TensorFlow", "level": 95 },
+        { "name": "TypeScript", "level": 88 },
+        { "name": "React / Next.js", "level": 85 },
+        { "name": "C++", "level": 82 },
+        { "name": "Rust", "level": 78 },
+        { "name": "Go", "level": 79 },
+        { "name": "SQL / NoSQL", "level": 85 },
+        { "name": "Node.js", "level": 84 },
+        { "name": "gRPC / Protobuf", "level": 80 }
+      ]
+    },
+    "infrastructure": {
+      "category": "Infrastructure & Cloud",
+      "skills": [
+        { "name": "Google Cloud Platform (GCP)", "level": 92 },
+        { "name": "Amazon Web Services (AWS)", "level": 88 },
+        { "name": "Microsoft Azure", "level": 75 },
+        { "name": "Kubernetes", "level": 88 },
+        { "name": "Docker", "level": 90 },
+        { "name": "CI/CD Pipelines", "level": 86 },
+        { "name": "MLOps / Model Serving", "level": 88 },
+        { "name": "TPU / GPU Clusters", "level": 92 },
+        { "name": "Distributed Systems", "level": 87 },
+        { "name": "Kafka / Message Queues", "level": 80 }
+      ]
+    },
+    "leadership": {
+      "category": "Leadership & Strategy",
+      "skills": [
+        { "name": "Technical Team Leadership (35+ people)", "level": 95 },
+        { "name": "Technical Strategy & Roadmapping", "level": 94 },
+        { "name": "Product Strategy", "level": 90 },
+        { "name": "Startup Founding & Scaling", "level": 92 },
+        { "name": "Fundraising & Investor Relations", "level": 85 },
+        { "name": "Public Speaking / Keynotes", "level": 90 },
+        { "name": "Research Paper Writing", "level": 96 },
+        { "name": "Mentorship & Talent Development", "level": 93 },
+        { "name": "Cross-functional Collaboration", "level": 91 },
+        { "name": "AI Ethics & Policy", "level": 88 }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "education": [
+    {
+      "institution": "Indian Institute of Technology (IIT) Bombay",
+      "location": "Mumbai, Maharashtra, India",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field": "Computer Science & Engineering",
+      "years": "2008-2012",
+      "duration": "4 years",
+      "gpa": "9.8/10.0",
+      "rank": "1/240",
+      "thesis": "Adaptive Neural Network Architectures for Real-time Pattern Recognition",
+      "advisor": null,
+      "highlights": [
+        "Director's Gold Medal — highest-ranking graduate in CS&E",
+        "Department Rank 1 out of 240 students",
+        "JEE Advanced All India Rank 12",
+        "ACM Student Chapter President",
+        "Robotics Club active member",
+        "Published 2 conference papers during undergrad"
+      ],
+      "entrance_exam": {
+        "exam": "JEE Advanced",
+        "rank": 12,
+        "year": 2008
+      }
+    },
+    {
+      "institution": "Harvard University — John A. Paulson School of Engineering and Applied Sciences (SEAS)",
+      "location": "Cambridge, Massachusetts, USA",
+      "degree": "Master of Science (M.S.)",
+      "field": "Computer Science — Specialization: Artificial Intelligence & Machine Learning",
+      "years": "2013-2015",
+      "duration": "2 years",
+      "gpa": "4.0/4.0",
+      "rank": null,
+      "thesis": "Probabilistic Inference in Large-Scale Neural Architectures",
+      "advisor": "Prof. Leslie Valiant (Turing Award Laureate)",
+      "highlights": [
+        "4.0 GPA — Highest Distinction",
+        "Full Academic Scholarship",
+        "Advised by Turing Award Laureate Prof. Leslie Valiant",
+        "Teaching Fellow for CS 181 (Machine Learning)",
+        "Phi Beta Kappa Honor Society member",
+        "Published 3 papers during master's"
+      ],
+      "scholarship": "Full Academic Scholarship"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology (MIT) — Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "location": "Cambridge, Massachusetts, USA",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "field": "Computer Science — Autonomous Systems & Reinforcement Learning",
+      "years": "2015-2019",
+      "duration": "4 years",
+      "gpa": null,
+      "rank": null,
+      "thesis": "Scalable Reinforcement Learning for Long-Horizon Autonomous Decision Making",
+      "advisor": "Prof. Daniela Rus (Director, CSAIL)",
+      "highlights": [
+        "NSF Graduate Research Fellowship (top 2% of STEM applicants nationally)",
+        "Defended with Distinction",
+        "CSAIL Fellow",
+        "Published 11 papers during PhD — 4 NeurIPS, 3 ICML, 2 ICLR, 2 AAAI",
+        "Advised by Prof. Daniela Rus (Director of MIT CSAIL)",
+        "Research Residency at OpenAI during PhD (2018-2019)"
+      ],
+      "fellowship": "NSF Graduate Research Fellowship (2015-2019)"
+    },
+    {
+      "institution": "Stanford University — Graduate School of Business (GSB)",
+      "location": "Stanford, California, USA",
+      "degree": "Executive Certificate",
+      "field": "AI Product Management & Organizational Leadership",
+      "years": "2022",
+      "duration": "3 months",
+      "gpa": null,
+      "rank": null,
+      "thesis": null,
+      "advisor": null,
+      "highlights": [
+        "Intensive executive program",
+        "Covered AI strategy, venture building, organizational design, ethics in AI deployment",
+        "Cohort of 40 global technology leaders"
+      ]
+    }
+  ]
+}

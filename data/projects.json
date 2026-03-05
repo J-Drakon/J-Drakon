@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "name": "Project Mariner",
+      "subtitle": "Agentic Browser AI",
+      "company": "Google DeepMind",
+      "status": "Live at Google",
+      "year": "2023-Present",
+      "description": "Google DeepMind's autonomous browser agent capable of completing multi-step web tasks. Led full architectural design of the agentic reasoning loop, memory management, and safety guardrails. Deployed to 500M+ Chrome users. Processes 2B+ daily agent actions.",
+      "role": "Lead Architect",
+      "technologies": ["Python", "JAX", "Gemini API", "GCP", "Chrome Extensions"],
+      "metrics": {
+        "daily_actions": "2B+",
+        "users": "500M+",
+        "uptime_sla": "99.99%",
+        "countries": 190
+      }
+    },
+    {
+      "name": "Cognix Flow",
+      "subtitle": "No-Code AI Workflow Engine",
+      "company": "Cognix Labs",
+      "status": "Acquired by Google ($180M)",
+      "year": "2020-2021",
+      "description": "Enterprise no-code AI workflow automation platform allowing business users to build complex agentic automations without coding. Built with a visual node-based editor, 200+ pre-built integrations, and enterprise-grade security.",
+      "role": "Co-Founder & CTO",
+      "technologies": ["React", "Node.js", "Python", "PostgreSQL", "Kubernetes", "AWS"],
+      "metrics": {
+        "enterprise_clients": "400+",
+        "arr": "$8M",
+        "integrations": "200+",
+        "acquisition_price": "$180M"
+      }
+    },
+    {
+      "name": "ChainThink",
+      "subtitle": "Chain-of-Thought Reasoning Framework",
+      "company": "Open Source",
+      "status": "Active — Open Source",
+      "year": "2022-Present",
+      "description": "Open-source framework for chain-of-thought prompting and structured reasoning in large language models. Provides standardized templates, evaluation benchmarks, and visualization tools. Used by 12,000+ researchers globally. Foundation for the NeurIPS 2022 best-paper nominee.",
+      "role": "Creator & Lead Maintainer",
+      "technologies": ["Python", "HuggingFace", "PyTorch", "LangChain"],
+      "metrics": {
+        "github_stars": "18.4K",
+        "researchers_using": "12,000+",
+        "forks": "2,100+",
+        "contributors": "180+"
+      }
+    },
+    {
+      "name": "AlignGuard",
+      "subtitle": "AI Safety Evaluation Suite",
+      "company": "Open Source / Research",
+      "status": "Active — Research",
+      "year": "2023-Present",
+      "description": "Comprehensive evaluation framework for measuring alignment, safety, and robustness of large language models. Includes 50+ evaluation categories, automated red-teaming tools, and safety scoring APIs. Adopted by Anthropic, Cohere, and Mistral for internal evaluations.",
+      "role": "Creator & Lead Researcher",
+      "technologies": ["Python", "FastAPI", "Redis", "Docker", "Pytest"],
+      "metrics": {
+        "github_stars": "9.2K",
+        "evaluation_categories": "50+",
+        "enterprise_adopters": ["Anthropic", "Cohere", "Mistral"]
+      }
+    },
+    {
+      "name": "MultiMind",
+      "subtitle": "Multi-Agent Coordination Protocol",
+      "company": "Open Source / Research",
+      "status": "Live — 2024",
+      "year": "2024-Present",
+      "description": "Open protocol and reference implementation for coordinating multiple specialized AI agents on long-horizon tasks. Defines standardized message passing, task delegation, and consensus mechanisms. Submitted as RFC to the IETF AI Working Group. 3 Fortune 500 deployments in production.",
+      "role": "Creator & Protocol Author",
+      "technologies": ["Python", "gRPC", "Protobuf", "Kafka", "Go"],
+      "metrics": {
+        "github_stars": "6.7K",
+        "ietf_status": "RFC Submitted",
+        "production_deployments": 3
+      }
+    },
+    {
+      "name": "AryanMehta.ai",
+      "subtitle": "AI Education Platform",
+      "company": "Personal",
+      "status": "Live",
+      "year": "2021-Present",
+      "description": "Personal knowledge platform offering free AI/ML courses, research summaries, and interactive coding labs. Over 280,000 registered learners from 140+ countries. Features interactive Jupyter notebooks, video lectures, and AI-assisted learning paths. Fully free and open access.",
+      "role": "Founder & Instructor",
+      "technologies": ["Next.js", "Python", "Jupyter", "Vercel", "Supabase"],
+      "metrics": {
+        "registered_learners": "280,000+",
+        "countries": "140+",
+        "courses": "15+",
+        "video_hours": "200+"
+      }
+    }
+  ]
+}

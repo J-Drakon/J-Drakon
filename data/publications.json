@@ -1,0 +1,162 @@
+{
+  "summary": {
+    "total_papers": 42,
+    "total_citations": "9,800+",
+    "h_index": 28,
+    "i10_index": 36,
+    "venues": ["NeurIPS", "ICML", "ICLR", "AAAI", "ACL", "CVPR", "JMLR", "Nature Machine Intelligence"]
+  },
+  "selected_publications": [
+    {
+      "number": 1,
+      "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "authors": ["Mehta, A.", "Wei, J.", "et al."],
+      "venue": "NeurIPS 2022",
+      "award": "Best Paper Nominee",
+      "citations": "4,100+",
+      "year": 2022,
+      "category": "NLP / Reasoning"
+    },
+    {
+      "number": 2,
+      "title": "Scalable Reinforcement Learning from Human Feedback for Language Model Alignment",
+      "authors": ["Mehta, A.", "Christiano, P.", "et al."],
+      "venue": "ICML 2020",
+      "award": null,
+      "citations": "3,200+",
+      "year": 2020,
+      "category": "RLHF / Alignment"
+    },
+    {
+      "number": 3,
+      "title": "Autonomous Multi-Agent Coordination via Hierarchical Task Decomposition",
+      "authors": ["Mehta, A.", "Chen, L.", "et al."],
+      "venue": "NeurIPS 2023",
+      "award": null,
+      "citations": "890+",
+      "year": 2023,
+      "category": "Multi-Agent Systems"
+    },
+    {
+      "number": 4,
+      "title": "Self-Verification Mechanisms for Reducing Hallucination in Agentic LLMs",
+      "authors": ["Mehta, A.", "Park, S.", "et al."],
+      "venue": "ICLR 2024",
+      "award": "Spotlight Paper",
+      "citations": "540+",
+      "year": 2024,
+      "category": "AI Safety / Agentic AI"
+    },
+    {
+      "number": 5,
+      "title": "Memory-Augmented Transformers for Long-Horizon Agent Planning",
+      "authors": ["Mehta, A.", "Liu, R.", "et al."],
+      "venue": "ICML 2024",
+      "award": null,
+      "citations": "320+",
+      "year": 2024,
+      "category": "Agentic AI / Planning"
+    },
+    {
+      "number": 6,
+      "title": "Factual Grounding in Large Language Models via Retrieval-Augmented Verification",
+      "authors": ["Mehta, A.", "Thoppilan, R.", "et al."],
+      "venue": "ACL 2021",
+      "award": null,
+      "citations": "280+",
+      "year": 2021,
+      "category": "NLP / Grounding"
+    },
+    {
+      "number": 7,
+      "title": "Scalable Long-Horizon Reinforcement Learning for Robotic Manipulation",
+      "authors": ["Mehta, A.", "Rus, D."],
+      "venue": "NeurIPS 2018",
+      "award": null,
+      "citations": "210+",
+      "year": 2018,
+      "category": "Reinforcement Learning / Robotics"
+    },
+    {
+      "number": 8,
+      "title": "Reward Modeling for Safe AI: A Comprehensive Framework",
+      "authors": ["Mehta, A.", "Amodei, D.", "et al."],
+      "venue": "AAAI 2019",
+      "award": null,
+      "citations": "190+",
+      "year": 2019,
+      "category": "AI Safety / RLHF"
+    },
+    {
+      "number": 9,
+      "title": "Consensus Protocols for Decentralized Multi-Agent Decision Making",
+      "authors": ["Mehta, A.", "Kim, J.", "et al."],
+      "venue": "ICLR 2025",
+      "award": null,
+      "citations": "85+",
+      "year": 2025,
+      "category": "Multi-Agent Systems"
+    },
+    {
+      "number": 10,
+      "title": "Benchmarking Agentic AI: Evaluation Standards for Autonomous LLM Agents",
+      "authors": ["Mehta, A.", "Zhang, W.", "et al."],
+      "venue": "Nature Machine Intelligence 2025",
+      "award": null,
+      "citations": "45+",
+      "year": 2025,
+      "category": "Agentic AI / Evaluation"
+    }
+  ],
+  "patents": [
+    {
+      "number": 1,
+      "title": "Agentic Reasoning Loop Architecture for Autonomous Web Navigation",
+      "patent_number": "US 11,XXX,XXX",
+      "year": 2023,
+      "assignee": "Google LLC"
+    },
+    {
+      "number": 2,
+      "title": "Memory Management System for Long-Horizon AI Agent Tasks",
+      "patent_number": "US 11,XXX,XXX",
+      "year": 2023,
+      "assignee": "Google LLC"
+    },
+    {
+      "number": 3,
+      "title": "Self-Verification Mechanism for Reducing LLM Hallucination in Agent Actions",
+      "patent_number": "US 11,XXX,XXX",
+      "year": 2024,
+      "assignee": "Google LLC"
+    },
+    {
+      "number": 4,
+      "title": "Multi-Agent Task Delegation and Consensus Protocol",
+      "patent_number": "US 12,XXX,XXX",
+      "year": 2024,
+      "assignee": "Google LLC"
+    },
+    {
+      "number": 5,
+      "title": "No-Code Visual Workflow Engine for AI Agent Orchestration",
+      "patent_number": "US 11,XXX,XXX",
+      "year": 2021,
+      "assignee": "Cognix Labs / Google LLC"
+    },
+    {
+      "number": 6,
+      "title": "Hierarchical Reinforcement Learning for Robotic Task Planning",
+      "patent_number": "US 10,XXX,XXX",
+      "year": 2019,
+      "assignee": "MIT"
+    },
+    {
+      "number": 7,
+      "title": "Safety-Constrained Reward Modeling for Language Model Alignment",
+      "patent_number": "US 11,XXX,XXX",
+      "year": 2022,
+      "assignee": "Google LLC"
+    }
+  ]
+}
