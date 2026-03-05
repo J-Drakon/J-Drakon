@@ -1,0 +1,109 @@
+{
+  "name": "Dr. Aryan Rajiv Mehta",
+  "dob": "1990-03-14",
+  "age": 35,
+  "nationality": "American-Indian",
+  "location": "San Francisco, California, USA",
+  "hometown": "Mumbai, Maharashtra, India",
+  "email": "aryan.mehta@google.com",
+  "phone": "+1 (415) 902-7834",
+  "website": "aryanmehta.ai",
+  "github": "github.com/J-Drakon",
+  "linkedin": "linkedin.com/in/aryanmehta",
+  "twitter": "@araboryan",
+  "blood_group": "O+",
+  "marital_status": "Married, 2 Children",
+  "current_role": "Agentic AI Lead, Principal Engineer — Google DeepMind",
+
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "degree": "B.Tech — Computer Science & Engineering",
+      "years": "2008-2012",
+      "gpa": "9.8/10.0",
+      "highlights": ["Gold Medallist", "Rank 1/240", "JEE AIR 12", "ACM President"]
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "M.S. — Computer Science (AI/ML)",
+      "years": "2013-2015",
+      "gpa": "4.0/4.0",
+      "highlights": ["Highest Distinction", "Full Scholarship", "Phi Beta Kappa"]
+    },
+    {
+      "institution": "MIT (CSAIL)",
+      "degree": "Ph.D. — Computer Science (Autonomous Systems & RL)",
+      "years": "2015-2019",
+      "gpa": "N/A",
+      "highlights": ["NSF Fellowship", "Defended with Distinction", "11 Papers"]
+    },
+    {
+      "institution": "Stanford University (GSB)",
+      "degree": "Executive Certificate — AI Product Management",
+      "years": "2022",
+      "gpa": "N/A",
+      "highlights": ["Executive Education"]
+    }
+  ],
+
+  "career": [
+    {
+      "role": "Agentic AI Lead, Principal Engineer",
+      "company": "Google DeepMind",
+      "period": "Jan 2022 - Present",
+      "type": "Full-Time"
+    },
+    {
+      "role": "Senior Research Scientist",
+      "company": "Google Brain",
+      "period": "Jul 2019 - Dec 2021",
+      "type": "Full-Time"
+    },
+    {
+      "role": "Co-Founder & CTO",
+      "company": "Cognix Labs (Acquired by Google for $180M)",
+      "period": "Jan 2020 - Oct 2021",
+      "type": "Founder"
+    },
+    {
+      "role": "Research Resident",
+      "company": "OpenAI",
+      "period": "May 2018 - May 2019",
+      "type": "Residency"
+    },
+    {
+      "role": "Graduate Research Assistant & Teaching Fellow",
+      "company": "MIT CSAIL & Harvard SEAS",
+      "period": "Sep 2013 - May 2019",
+      "type": "Academia"
+    }
+  ],
+
+  "achievements": {
+    "publications": 42,
+    "citations": "9,800+",
+    "h_index": 28,
+    "patents": 7,
+    "startup_exit": "$180M",
+    "users_impacted": "2B+",
+    "team_size_led": "35+"
+  },
+
+  "awards": [
+    "Forbes 30 Under 30 — Technology (2023)",
+    "MIT Technology Review Innovators Under 35 (2024)",
+    "Google Research Outstanding Contribution Award (2020, 2021)",
+    "NSF Graduate Research Fellowship (2015-2019)",
+    "IIT Bombay Director's Gold Medal (2012)",
+    "Keynote Speaker — Google I/O 2024, Davos WEF 2025"
+  ],
+
+  "languages": [
+    { "language": "English", "proficiency": "Native/Bilingual" },
+    { "language": "Hindi", "proficiency": "Native" },
+    { "language": "Sanskrit", "proficiency": "Reading" },
+    { "language": "Japanese", "proficiency": "Conversational (JLPT N3)" }
+  ],
+
+  "interests": ["Chess (FIDE 1850+)", "Piano (Classical & Jazz)", "Astrophysics", "Mountaineering"]
+}
