@@ -1,6 +1,0 @@
-dist/
-__pycache__/
-.vscode/
-*.log
-.env
-*.pyc
