@@ -1,0 +1,30 @@
+name: Daily Random Run
+
+# Runs an empty script once a day at a randomized time.
+#
+# GitHub Actions cron only accepts fixed schedules, so we trigger early each
+# day and then sleep a random amount (0-12h) before running the script. The
+# job therefore "fires" at a different time each day.
+
+on:
+  schedule:
+    # 00:00 UTC daily (fixed). Actual run time is randomized by the sleep below.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Wait a random amount of time
+        run: |
+          # Random delay between 0 and 43200 seconds (up to 12 hours).
+          DELAY=$(( RANDOM % 43200 ))
+          echo "Sleeping for $DELAY seconds (~$(( DELAY / 3600 ))h $(( (DELAY % 3600) / 60 ))m)..."
+          sleep "$DELAY"
+
+      - name: Run the script
+        run: bash ./scripts/daily.sh
