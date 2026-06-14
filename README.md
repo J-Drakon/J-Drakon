@@ -3,18 +3,18 @@
 
   # Drakkon
 
-  Building small, sharp tools. Mostly CLIs, automation, and the unglamorous glue that makes other software easier to live with.
+  Small, sharp tools. Mostly CLIs, automation, and the unglamorous glue that makes other software easier to live with.
 </div>
 
 ---
 
-I like software that does one thing, does it well, and gets out of the way. Dependency-light, well-tested, easy to read six months later. This account is where I park experiments and tools under a handle.
+I like software that does one thing, does it well, and gets out of the way. Dependency-light, well-tested, and still readable six months later. This account is where I park experiments and tools under a handle.
 
 ### Currently into
 
 - Command-line tools and developer ergonomics
 - Automation and scripting -- removing the steps a human shouldn't have to repeat
-- Writing code that explains itself: small functions, honest names, real tests
+- Code that explains itself: small functions, honest names, real tests
 
 ### Stack
 
@@ -26,7 +26,7 @@ I like software that does one thing, does it well, and gets out of the way. Depe
 
 ### Pinned
 
-- **diceforge** -- a zero-dependency dice-notation roller for the terminal (`3d6+2`, advantage, exploding dice). Tabletop math without the mental load.
+- **[diceforge](https://github.com/J-Drakon/diceforge)** -- a zero-dependency dice-notation roller for the terminal. Standard RPG notation parsed (not `eval`'d): `3d6+2`, `4d6kh3` (keep-highest), `2d20kl1` (disadvantage), exploding dice, percentile. Tested, MIT-licensed, no install needed.
 
 ---
 
