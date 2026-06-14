@@ -1,28 +1,39 @@
-# Drakkon
+<div align="center">
+  <img src="assets/drakkon-avatar.png" width="120" alt="Drakkon" />
 
-Developer working with AI tooling, automation, and clean code. This is a pseudonymous side account.
+  # Drakkon
 
-## What I'm into
-
-- Agentic AI and developer tooling -- CLIs, MCP servers, automation that removes busywork
-- Infrastructure and DevOps -- Terraform, CI/CD, reproducible environments
-- Writing code that reads well: small functions, honest names, tests that mean something
-
-## Tools I reach for
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Drakon&show_icons=true&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Drakon&layout=compact&hide_border=true)
+  Building small, sharp tools. Mostly CLIs, automation, and the unglamorous glue that makes other software easier to live with.
+</div>
 
 ---
 
-Notes and small experiments live here. Nothing load-bearing -- the real work is elsewhere.
+I like software that does one thing, does it well, and gets out of the way. Dependency-light, well-tested, easy to read six months later. This account is where I park experiments and tools under a handle.
+
+### Currently into
+
+- Command-line tools and developer ergonomics
+- Automation and scripting -- removing the steps a human shouldn't have to repeat
+- Writing code that explains itself: small functions, honest names, real tests
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Pinned
+
+- **diceforge** -- a zero-dependency dice-notation roller for the terminal (`3d6+2`, advantage, exploding dice). Tabletop math without the mental load.
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=J-Drakon&show_icons=true&hide_border=true&theme=dark&count_private=true)
+
+<sub>Notes and small experiments. The handle is Drakkon; the work is real.</sub>
+
+</div>
